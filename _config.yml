@@ -1,5 +1,5 @@
 name: "沈阳外贸有限公司外贸一部"
-description: "这是一个临时的网站"
+description: "这是外贸一部的临时网站"
 
 avatar: https://pianfan.github.io/images/avatar.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -23,9 +23,9 @@ footer-links:
   github: 
   rss: # just type anything here for a working RSS icon
   twitter: 
-  phone:+86(24)24131578
+  
 
-footer-text: Copyright (c) 2025 外贸一部 24123918
+footer-text: Copyright (c) 2025 外贸一部 0086-24-24123918
 
 url: https://sywm.github.io
 
